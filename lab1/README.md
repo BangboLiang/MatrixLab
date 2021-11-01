@@ -1,4 +1,4 @@
 # This is lab 1
 
-## SimpleMatrix
+## SimpleTime.cc
  This is a simple code that can calculate matrix A*B in a simple method.
